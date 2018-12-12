@@ -7,10 +7,15 @@ Simple ringcentral chatbot python extension that add `world time` command suppor
 
 ## Table of contents <!-- omit in toc -->
 
+- [Use](#use)
 - [Prerequisites](#prerequisites)
 - [Quick start](#quick-start)
 - [Test bot](#test-bot)
 - [License](#license)
+
+## Use
+
+Just follow [ringcentral-chatbot-python#use-extensions](https://github.com/zxdong262/ringcentral-chatbot-python#use-extensions), set `EXTENSIONS=ringcentral_bot_framework_extension_world_time`
 
 ## Prerequisites
 
