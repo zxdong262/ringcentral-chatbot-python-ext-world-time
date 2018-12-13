@@ -50,7 +50,7 @@ def botGotPostAddAction(
   if not f'![:Person]({bot.id})' in text:
     return False
 
-  if 'world time' in text:
+  if f'![:Person]({bot.id}) world time' == text:
     res = ''
     start = -12
     for i in range(27):
