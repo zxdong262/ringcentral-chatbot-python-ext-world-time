@@ -41,6 +41,7 @@ def botGotPostAddAction(
   user,
   text,
   dbAction,
+  event,
   handledByOtherExtension
 ):
   """
